@@ -4,7 +4,7 @@ public class ReverseString {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String inputString = "Arun";
+		String inputString = "Try Coding";
 		String revString = new StringBuilder(inputString).reverse().toString();
 		System.out.println("Reversed string is: " + revString);
 	}
